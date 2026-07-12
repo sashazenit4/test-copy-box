@@ -1,1 +1,1 @@
-# test-copy-box
+vless://33f98cde-8257-4b3e-94ba-2b8f5f166cb9@80.90.179.181:443?type=tcp&security=reality&pbk=JeXhRH7-6rVxX9JyVdOzjxbo7rMCRth_jMXlqvtUEx8&fp=chrome&sni=stream.deduso.su&sid=ff822a77&spx=%2F&flow=xtls-rprx-vision#CRINGE_VLESS-Olga-N-tv
